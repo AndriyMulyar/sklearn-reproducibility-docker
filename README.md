@@ -8,6 +8,6 @@ After running:
 
 Run:
 
-`docker run -it --rm aymulyar:sklearn-experiment /bin/ash`
+`docker run -it --rm aymulyar:sklearn-experiment /bin/bash`
 
-To spawn and enter into an `ash` (like bash but for alpine linux) terminal in the container.
+To spawn and enter into a terminal in the container.
